@@ -19,5 +19,5 @@ We utilized three course datasets from Kaggle and merged them. Employing the con
 * Cloud Computing :
 We used a serverless recommended solution for greater scalability, focus on development, and faster deployment time. We deployed Flask to Cloud Run and used Cloud SQL to implement the MySQL database. We also developed routing, request, response and other features to do various web app management using Flask with this cloud run. We also set up cloud storage buckets to store machine learning files and data. We set up the CI/CD pipeline using github, cloud build, and google container registry so that it can be easily accessed and used by the Cloud Run service. And finally Deploy Flask containers to Cloud Run, so that web applications can be run automatically and scalably in a serverless environment.
 
-
-
+This application can be accessed through the link below:
+https://flask-app-45cyhhvmdq-et.a.run.app
